@@ -8,4 +8,4 @@ The program uniquely generates a password of 18 characters, starting from a mast
   having to remember them all. In fact, you'll only have to remember the master key.
   The program will not store the master key, nor the different generated passwords.
 
-In order to "cut" the 32-byte output of the iterated SHA-256 to a 16 characters password, a simple mod function will be used.
+For "cutting" the 32-byte output of the iterated SHA-256 to a 16 characters password, a simple mod function will be used.
