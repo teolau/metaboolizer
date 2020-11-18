@@ -1,0 +1,7 @@
+# TODO
+Features to be implemented.
+
+1. Let the user choose the length of the generated passwords.
+2. Let the user decide the pool of chars that create his password. E.g.: only numbers, just uppercase and lowercase letters, some special characters...
+3. Give the user the option to store the names of the services for which he generated a password.
+4. ...
